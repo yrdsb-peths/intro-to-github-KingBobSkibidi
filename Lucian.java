@@ -2,6 +2,9 @@ public class Student {
     String lucian;
     int 16;
 
-    //first branch
-    int color = yellow;
+    // first edit
+    String favColor = "yellow";
+
+    // second edit
+    String leastFavColor = "garbage green";
 }
