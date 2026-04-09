@@ -1,6 +1,6 @@
 public class Student {
-    String lucian;
-    int 16;
+    String name = "Lucian";
+    int age = 16;
 
     // first edit
     String favColor = "yellow";
